@@ -16,8 +16,8 @@ module.exports = {
 	// },
 
 	// 'googleAuth' : {
-	// 	'clientID' 		: '987299196455-ep89rmp6ouqeanqvqu2o91863hrfdkjn.apps.googleusercontent.com',
-	// 	'clientSecret' 	: 'yzvsllPL2erjdKm64wwjyOtR',
+	// 	'clientID' 		: '880588681347-m5c6eck9tbrlogku2g121m71eavta91q.apps.googleusercontent.com',
+	// 	'clientSecret' 	: 'me41ipvQwO6-GTDNMZj5_2yL',
 	// 	'callbackURL' 	: 'http://localhost:5555/auth/google/callback'
 	// }
 
@@ -34,8 +34,8 @@ module.exports = {
 	},
 
 	'googleAuth' : {
-		'clientID' 		: '987299196455-ep89rmp6ouqeanqvqu2o91863hrfdkjn.apps.googleusercontent.com',
-		'clientSecret' 	: 'yzvsllPL2erjdKm64wwjyOtR',
+		'clientID' 		: '825081752535-akv15aj76gb6nmp1vrr9f3nis055rif7.apps.googleusercontent.com',
+		'clientSecret' 	: 'mTwLLpRPLXiF5JWqI5YOyj2A',
 		'callbackURL' 	: 'http://ec2-54-157-10-73.compute-1.amazonaws.com:5555/auth/google/callback'
 	}
 
