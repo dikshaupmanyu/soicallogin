@@ -21,23 +21,23 @@ module.exports = {
 	// 	'callbackURL' 	: 'http://localhost:5555/auth/google/callback'
 	// }
 
-	// 'facebookAuth' : {
-	// 	'clientID' 		: '1393661524086784', // your App ID
-	// 	'clientSecret' 	: '58234db37823bb86b021f754e185f37f', // your App Secret
-	// 	'callbackURL' 	: 'http://ec2-54-157-10-73.compute-1.amazonaws.com:5555/auth/facebook/callback'
-	// },
+	'facebookAuth' : {
+		'clientID' 		: '1393661524086784', // your App ID
+		'clientSecret' 	: '58234db37823bb86b021f754e185f37f', // your App Secret
+		'callbackURL' 	: 'http://ec2-54-157-10-73.compute-1.amazonaws.com:5555/auth/facebook/callback'
+	},
 
-	// 'twitterAuth' : {
-	// 	'consumerKey' 		: 'your-consumer-key-here',
-	// 	'consumerSecret' 	: 'your-client-secret-here',
-	// 	'callbackURL' 		: 'http://localhost:5555/auth/twitter/callback'
-	// },
+	'twitterAuth' : {
+		'consumerKey' 		: 'your-consumer-key-here',
+		'consumerSecret' 	: 'your-client-secret-here',
+		'callbackURL' 		: 'http://localhost:5555/auth/twitter/callback'
+	},
 
-	// 'googleAuth' : {
-	// 	'clientID' 		: '825081752535-akv15aj76gb6nmp1vrr9f3nis055rif7.apps.googleusercontent.com',
-	// 	'clientSecret' 	: 'mTwLLpRPLXiF5JWqI5YOyj2A',
-	// 	'callbackURL' 	: 'http://ec2-54-157-10-73.compute-1.amazonaws.com:5555/auth/google/callback'
-	// }
+	'googleAuth' : {
+		'clientID' 		: '825081752535-akv15aj76gb6nmp1vrr9f3nis055rif7.apps.googleusercontent.com',
+		'clientSecret' 	: 'mTwLLpRPLXiF5JWqI5YOyj2A',
+		'callbackURL' 	: 'http://ec2-54-157-10-73.compute-1.amazonaws.com:5555/auth/google/callback'
+	}
 
 
 };
