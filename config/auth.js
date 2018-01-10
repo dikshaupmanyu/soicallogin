@@ -27,11 +27,11 @@ module.exports = {
 		'callbackURL' 	: 'http://ec2-54-157-10-73.compute-1.amazonaws.com:5555/auth/facebook/callback'
 	},
 
-	'twitterAuth' : {
-		'consumerKey' 		: 'your-consumer-key-here',
-		'consumerSecret' 	: 'your-client-secret-here',
-		'callbackURL' 		: 'http://localhost:5555/auth/twitter/callback'
-	},
+	// 'twitterAuth' : {
+	// 	'consumerKey' 		: 'your-consumer-key-here',
+	// 	'consumerSecret' 	: 'your-client-secret-here',
+	// 	'callbackURL' 		: 'http://localhost:5555/auth/twitter/callback'
+	// },
 
 	'googleAuth' : {
 		'clientID' 		: '825081752535-akv15aj76gb6nmp1vrr9f3nis055rif7.apps.googleusercontent.com',
