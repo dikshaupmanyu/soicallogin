@@ -4,11 +4,11 @@
 // get all the tools we need
 var express  = require('express');
 var app      = express();
-var port     = process.env.PORT || 5555;
+var port     = process.env.PORT || 8080;
 var mongoose = require('mongoose');
 var passport = require('passport');
 var flash    = require('connect-flash');
- //var User       = require('./app/models/user');
+
 var configDB = require('./config/database.js');
 
 // configuration ===============================================================
